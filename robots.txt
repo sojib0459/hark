@@ -1,4 +1,0 @@
-Sitemap: https://harmonious-brigadeiros-42db59.netlify.app/sitemap.xml
-User-agent: *
-Allow: /
-Disallow:
